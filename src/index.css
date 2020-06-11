@@ -112,6 +112,8 @@ h1:after {
   margin: 0 auto;
   bottom: -25px;
   outline: none;
+  background-color: rgba(180, 58, 169, 0.8);
+  border: 2px dashed purple;
 }
 
 #add:hover {
